@@ -1,4 +1,4 @@
-# LATEX-workshop
+# LATEX-Workshop
 
 This is a short description for the LATEX workshop presented at the University of Maryland College Park (Oct. 12, 2016) 
 by Sepideh Mosaferi.
